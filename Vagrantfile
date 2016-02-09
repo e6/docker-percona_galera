@@ -1,6 +1,6 @@
 # -*- mode: ruby -*-
 # # vi: set ft=ruby :
-
+require 'yaml'
 require 'fileutils'
 
 require_relative 'factorish.rb'
